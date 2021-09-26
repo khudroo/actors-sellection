@@ -1,0 +1,99 @@
+
+[
+    {
+      "id": 1,
+      "img": "https://www.ittefaq.com.bd/assets/news_photos/2021/04/30/image-241062-1619798382.jpg",
+      "name": "Sakib Khan",
+      "role": "Hero",
+      "country": "Bangladesh",
+      "minimum_charge": 1000000
+    },
+    {
+      "id": 2,
+      "img": "https://www.newsbangla24.com/assets/news_images/2020/12/12/arefin-shuvo-cover-pic.jpg",
+      "name": "Arifin Shuvo",
+      "role": "Hero",
+      "country": "Bangladesh",
+      "minimum_charge": 800000
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.twistarticle.com/wp-content/uploads/2021/04/Bengali-Film-Actor-Jeet-Alias-Jeetendra-Madnani-is-Positive-of-Covid-19.jpg",
+      "name": "Jeet",
+      "role": "Hero",
+      "country": "India",
+      "minimum_charge": 1500000
+    },
+    {
+      "id": 4,
+      "img": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/08/pori-moni-1628236972.jpg",
+      "name": "Porimoni",
+      "role": "Heroine",
+      "country": "Bangladesh",
+      "minimum_charge": 900000
+    },
+    {
+      "id": 5,
+      "img": "https://dailyasianage.com/library/2017/11/20/1511203571_4.jpg",
+      "name": "Apu Biswas",
+      "role": "Heroine",
+      "country": "Bangladesh",
+      "minimum_charge": 700000
+    },
+    {
+      "id": 6,
+      "img": "https://static.toiimg.com/thumb/msid-73850729,width-800,height-600,resizemode-75,imgsize-37492,pt-32,y_pad-40/73850729.jpg",
+      "name": "Koel Mullick",
+      "role": "Heroine",
+      "country": "India",
+      "minimum_charge": 1300000
+    },
+    {
+      "id": 7,
+      "img": "https://www.daily-bangladesh.com/media/imgAll/2019December/en/misasowdogar-2001040612-2001040632.jpg",
+      "name": "Misha Shawdago",
+      "role": "Villain",
+      "country": "Bangladesh",
+      "minimum_charge": 1100000
+    },
+    {
+      "id": 8,
+      "img": "https://www.dailypioneer.com/uploads/2021/story/images/big/ashish-vidyarthi-tests-negative-for-covid-19-2021-03-21.jpg",
+      "name": "Aashish Vidyarth",
+      "role": "Villain",
+      "country": "India",
+      "minimum_charge": 1400000
+    },
+    {
+      "id": 9,
+      "img": "https://www.daily-bangladesh.com/media/imgAll/2019December/en/images-12-1912260302-1912260645.jpg",
+      "name": "Dipjol",
+      "role": "Villain",
+      "country": "Bangladesh",
+      "minimum_charge": 1300000
+    },
+    {
+      "id": 10,
+      "img": "https://images.indianexpress.com/2021/02/Johny-Lever_PRhandout1200.jpg",
+      "name": "Johnny Lever",
+      "role": "Comedian",
+      "country": "India",
+      "minimum_charge": 1000000
+    },
+    {
+      "id": 11,
+      "img": "https://www.thedailystar.net/upload/gallery/image/arts/anwara_2.jpg",
+      "name": "Anowara begum",
+      "role": "Others",
+      "country": "Bangladesh",
+      "minimum_charge": 700000
+    },
+    {
+      "id": 12,
+      "img": "https://s3images.zee5.com/wp-content/uploads/sites/7/2020/07/Comedian-Ali-1.jpg",
+      "name": "Ali",
+      "role": "Comedian",
+      "country": "India",
+      "minimum_charge": 1400000
+    }
+  ]

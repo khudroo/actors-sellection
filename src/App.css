@@ -1,0 +1,51 @@
+
+/* ========================================
+common css
+=========================================== */
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html,body{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1140px;
+    margin: auto;
+}
+
+img{
+    max-width: 100%;
+}
+/* Button Add to Cart */
+.btn{
+    width: 150px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background: transparent;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    cursor: pointer;
+    color: white;
+    transition: .3s;
+}
+
+.btn:hover{
+    background: rgb(223, 195, 37);
+}

@@ -1,0 +1,20 @@
+.main-wrapper{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.actor-container-parent{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    width: 70%;
+    /* border: 1px solid red; */
+}
+
+.cart-container-parent{
+    width: 30%;
+    /* border:1px solid green; */
+    background-color: ;
+}
