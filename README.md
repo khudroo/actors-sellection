@@ -8,5 +8,5 @@ Budget : 3 Millions
 5. Comedian
 6. Others
 
-Live Link: <a href="actors-sellection-hero.netlify.app"></a>
+Live Link: actors-sellection-hero.netlify.app
 
